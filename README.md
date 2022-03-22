@@ -1,1 +1,1 @@
-# EstimatingCustomerLifetimeValueIn-Insurance
+# EstimatingCustomerLifetimeValueInInsurance
